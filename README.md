@@ -20,7 +20,7 @@ And type this command
 ```bash
   ./run.sh
 ```
-Now close and open your terminale and type logtime
+Now close and open your terminale and type mypost
 
 ```bash
   mypost
